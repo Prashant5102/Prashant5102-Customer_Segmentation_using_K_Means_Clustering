@@ -1,0 +1,2 @@
+# Prashant5102-Customer_Segmentation_using_K_Means_Clustering
+clustering customers according their annual income and spending score
